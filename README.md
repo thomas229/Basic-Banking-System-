@@ -1,2 +1,2 @@
-# Basic-Banking-System-
-Basic Banking System for The Spark Foundation
+# basic-banking-system
+sparks foundation internship
